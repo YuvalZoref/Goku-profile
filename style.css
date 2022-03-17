@@ -54,7 +54,7 @@ a {
 
 .top-box {
   background-color: rgba(255, 255, 255, 0.836);
-  opacity: 0.8;
+  opacity: 0.85;
   padding: 24px;
   box-shadow: 0 1px 9px #F9AD1A;
   width: 440px;
@@ -69,7 +69,7 @@ a {
 
 .bottom-box {
   background-color: rgba(255, 255, 255, 0.836);
-  opacity: 0.8;
+  opacity: 0.85;
   padding: 24px;
   box-shadow: 0 1px 9px #F9AD1A;
   width: 390px;
